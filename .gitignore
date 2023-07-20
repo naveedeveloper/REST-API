@@ -1,0 +1,39 @@
+# Node.js and Express specific
+node_modules/
+npm-debug.log
+yarn-error.log
+*.env
+
+# Logs
+logs
+*.log
+
+# Build output
+build/
+dist/
+out/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Dependencies installed via npm or yarn
+package-lock.json
+yarn.lock
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.sln
+*.suo
+
+# Compiled binary addons (if any)
+build/Release
+
